@@ -1,2 +1,2 @@
 # Counter
-counter-main.netlify.app
+https://counter-main.netlify.app/
