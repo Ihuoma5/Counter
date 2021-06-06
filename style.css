@@ -1,0 +1,26 @@
+h2, h3 {
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 30px;
+  }
+  .btn {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #increase, #decrease {
+    margin-right: 20px; 
+    border: none;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+  }
+  #increase{
+    background-color: green;
+  }
+  
+  #decrease {
+    background: red;
+  } 
